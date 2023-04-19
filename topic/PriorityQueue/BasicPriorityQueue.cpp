@@ -1,5 +1,7 @@
 // ref : https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/
 
+//  priority queue is implemented as max heap by default in C++
+
 #include <iostream>
 #include <queue>
 using namespace std;
